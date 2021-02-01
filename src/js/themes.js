@@ -1,6 +1,6 @@
 const inputRef = document.querySelector('.theme-switch__toggle');
 
-const theme = {
+const Theme = {
     LIGHT: 'light-theme',
     DARK: 'dark-theme',
 };
