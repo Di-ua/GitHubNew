@@ -15,4 +15,3 @@ const markup = itemsTemplate(menu);
 refs.menuItems.insertAdjacentHTML('beforeend', markup);
 
 refs.body.classList.add(localStorage.Theme);
-// themeChoice();
